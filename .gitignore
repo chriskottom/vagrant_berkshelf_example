@@ -15,5 +15,4 @@ vendor/bundle
 
 # Vagrant / Berkshelf artifacts
 .vagrant
-Berksfile.lock
 cookbooks
