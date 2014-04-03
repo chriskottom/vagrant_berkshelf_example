@@ -10,4 +10,5 @@
 
 # Bundler artifacts
 .bundle
+bin
 vendor/bundle
